@@ -32,7 +32,7 @@ public class Main {
             cost += 800;
 
         if (dutchOrigin)
-            cost *= 0.21;
+            cost *= 1.21;
 
         return cost;
     }
