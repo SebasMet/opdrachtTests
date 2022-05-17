@@ -1,6 +1,6 @@
 import com.company.toets.Main;
 import org.testng.Assert;
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
 public class TestLandingCost {
 
